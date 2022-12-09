@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chengrg
 - 👀 I’m interested in dogs and cats
-- 🌱 I’m currently learning data analysis
+- 🌱 Data analysis/Data science/Software
 - 💞️ I’m looking to collaborate on python/sql/machine learning projects
 - 📫 How to reach me rc3372@columbia.edu
 
